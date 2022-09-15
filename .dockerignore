@@ -1,0 +1,6 @@
+**.git*
+.dockerignore
+Dockerfile
+pred.npz
+predicted_values.csv
+README.md
